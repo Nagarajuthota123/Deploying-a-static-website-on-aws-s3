@@ -1,4 +1,4 @@
-name: deploying the static website on s3 bucket
+name: The static website will be hosted on AWS S3.
 on:
   push:
     branches:
